@@ -1,4 +1,4 @@
-## Hi there 👋
+This area related to our Event-B research group at the University of Southampton (the *B-Hive*).
 
 <!--
 
